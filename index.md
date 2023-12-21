@@ -3,7 +3,6 @@ Here is a list of my projects that i working on:
 # My interests
 I'm interesting in data Science and Maths!
 # My Blog
-I like blogs
 <ul>
 {%for post in site.posts %}
 <li>
