@@ -9,6 +9,7 @@ I'm interesting in data Science and Maths!
 <a href=".._posts/2024/01/01-new-year.md">first post</a>
 </li>
 {% endfor %}
+
 # Get in touch
 <ul>
 <li> <a href="https://www.linkedin.com/in/miguel-m-073213117/">Linkedin</a></li>
