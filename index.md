@@ -6,7 +6,7 @@ I'm interesting in data Science and Maths!
 <ul>
 {%for post in site.posts %}
 <li>
-<a href="_posts/2024/01/01-new-year.md">first post</a>
+<a href=".._posts/2024/01/01-new-year.md">first post</a>
 </li>
 {% endfor %}
 # Get in touch
